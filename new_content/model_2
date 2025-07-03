@@ -5,3 +5,8 @@ CREATE TABLE [E_1]
 	[name]               char(18)  NULL 
 )
 go
+
+
+
+
+
