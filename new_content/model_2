@@ -1,5 +1,3 @@
-CREATE SCHEMA mart
-go
 
 CREATE TABLE [E_1]
 ( 
