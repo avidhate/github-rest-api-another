@@ -1,0 +1,9 @@
+CREATE SCHEMA mart_user
+go
+
+CREATE TABLE [E_1]
+( 
+	[id]                 char(18)  NULL ,
+	[name]               char(18)  NULL 
+)
+go
